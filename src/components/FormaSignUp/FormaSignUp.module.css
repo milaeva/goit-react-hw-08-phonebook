@@ -1,0 +1,35 @@
+.form {
+  margin: 0;
+  font-family: 'Arial', serif;
+  background-color: rgba(215, 222, 233, 0.486);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-attachment: fixed;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.wrapperFormaSignUp {
+  margin-left: auto;
+  margin-right: auto;
+  width: 420px;
+  font-family: 'Arial', serif;
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+}
+
+.buttonReg {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 140px;
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+  color: black;
+  background-color: rgb(155, 175, 211);
+}

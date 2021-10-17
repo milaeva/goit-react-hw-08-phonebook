@@ -1,0 +1,19 @@
+.nav {
+  margin-right: auto;
+}
+
+.link {
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 1.3;
+  color: rgb(90, 90, 90);
+}
+
+.link:not(:last-child) {
+  margin-right: 100px;
+}
+
+.link:hover,
+.link:focus {
+  color: rgba(76, 132, 236, 0.788);
+}

@@ -1,0 +1,12 @@
+.new-contact {
+  padding-top: 100px;
+}
+
+.section {
+  padding-top: 80px;
+}
+
+.sectionList {
+  composes: section;
+  padding-bottom: 200px;
+}
